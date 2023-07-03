@@ -1,0 +1,145 @@
+ .login{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCfOVFrw8gQ-EQqfh3rb4exPcfVyXhmkdZA&usqp=CAU");
+  background-size: cover;
+   width: 100%;  
+    display: flex;
+   justify-content: center;  
+   /* border-radius: 5px;
+   box-shadow: 10px 10px 10px;  */
+   }
+  
+
+   .login_form h1{
+    font-size: 28px;
+     color:black; 
+    text-transform: uppercase;
+    margin:40px 0px; 
+   
+   }
+   .login_form p{
+     font-size: 30px;
+     margin: 15px 0px;
+     color:goldenrod;
+     text-align: start;
+     padding-left: 18px;
+   }
+   .login_form{
+     padding-top: 40px;
+     padding-left: 100px;
+     text-align: center;
+     width: 400px;
+     height: 300px;
+     background: transparent;
+      /* border: 2px solid grey;  */
+     
+   }
+   .image img{
+    padding: 50px;
+    height: 620px;
+   width:400px;
+   
+   } 
+
+   .login_form input{
+     font-size: 16px;
+     width: 350px;
+     padding: 15px 10px;
+     border: none;
+     text-decoration: none;
+     border-radius:5px;
+     background-color:lightgray;
+   }
+   .login_form button{
+     font-size: 16px;
+     font-weight: bolder;
+     padding: 15px 10px;
+     width: 100px;
+     text-decoration:none;
+     border-radius: 5px;
+     margin: 20px 0px;
+     background-color: rgb(62, 62, 62);
+     color:aliceblue;
+     border-color: aliceblue;
+     cursor: pointer;
+   }
+   .heading{
+     color: black;
+     line-height: 45px;
+   
+   }
+   .subhead{
+     color:grey;  
+   } 
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body{
+    background-color:#adb5bd;
+}
+.login{
+    max-width: 978px;
+    width: 100vw;
+    display: flex;
+    position: relative;
+    top: 100px;
+    left: 230px;
+    border: 1px solid #e9ecef;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.login span{
+    color:#adb5bd;
+}
+
+#form{
+    max-width:320px ;
+    width: 100vw;
+    margin: 2em auto;
+}
+
+#form > input:focus{
+    outline: none;
+}
+
+#form > .btn{
+    background-color: #003049;
+    color: #e9ecef;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.flex{
+    display: flex;
+    gap: 1em;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.login .login_form{
+    margin: auto;
+    padding: 3em 0;
+} */
+

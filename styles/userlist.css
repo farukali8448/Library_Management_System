@@ -1,0 +1,54 @@
+
+
+.userss{
+    display: flex;
+    border: 3px solid black;
+    height: 230px;
+    width: 440px;
+    margin: 20px 20px;
+    background-color:beige;
+    padding: 10px 1px; 
+    border-radius: 5px;
+}
+
+.displayalpha h1{
+    border: 2px solid black;
+    height:50px;
+    width: 50px;
+    border-radius: 50%;
+    margin: 18px 15px;
+    background-color:darkorange;
+    text-align: center;
+    padding-top: 3px;
+    justify-content: center;
+    line-height:45px; 
+}
+
+.sentence a{
+    text-decoration: none;
+   
+}
+
+.three {
+    background-color: rgb(195, 193, 193);
+    border: 2px solid black;
+    margin-right: 10px;
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+}
+.three a{
+    background-color:rgb(195, 193, 193);
+    color:red; 
+    font-weight: bolder;
+}
+.header1{
+    padding-top: 3px;
+    justify-content: center;
+    line-height:45px;
+    color:grey;
+    padding-left: 40%;
+}
+.container1{
+    display: flex;
+}
